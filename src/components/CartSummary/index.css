@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.cart-items-total-price {
+  color: gray;
+}
+span {
+  font-weight: bold;
+  color: black;
+}
+.cart-items-count {
+  color: gray;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.cart-summary-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.checkout-btn {
+  background-color: blue;
+  color: white;
+  width: fit-content;
+  border: none;
+  padding: 10px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  float: right;
+}
