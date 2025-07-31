@@ -19,6 +19,9 @@
     "react-router-dom": "5.2.0",
     "reactjs-popup": "2.0.6"
   },
+  "engines": {
+  "node": "16.x"
+},
   "devDependencies": {
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.1.0",
@@ -70,3 +73,5 @@
     ]
   }
 }
+
+
