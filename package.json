@@ -20,7 +20,7 @@
     "reactjs-popup": "2.0.6"
   },
   "engines": {
-  "node": "16.x"
+  "node": "18.x"
 },
   "devDependencies": {
     "eslint-config-airbnb": "18.2.1",
